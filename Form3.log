@@ -1,0 +1,23 @@
+Line 48: Class MSDataGridLib.DataGrid of control grdtabel was not a loaded control class.
+Line 144: Class MSComCtl2.DTPicker of control dtptgl was not a loaded control class.
+Line 156: Class MSDataListLib.DataCombo of control cmbnota was not a loaded control class.
+Line 54: The property name _ExtentX in grdtabel is invalid.
+Line 55: The property name _ExtentY in grdtabel is invalid.
+Line 56: The property name _Version in grdtabel is invalid.
+Line 57: The property name HeadLines in grdtabel is invalid.
+Line 58: The property name RowHeight in grdtabel is invalid.
+Line 67: The property name HeadFont in grdtabel is invalid.
+Line 77: The property name ColumnCount in grdtabel is invalid.
+Line 90: The property name Column00 in grdtabel is invalid.
+Line 103: The property name Column01 in grdtabel is invalid.
+Line 104: The property name SplitCount in grdtabel is invalid.
+Line 110: The property name Split0 in grdtabel is invalid.
+Line 150: The property name _ExtentX in dtptgl is invalid.
+Line 151: The property name _ExtentY in dtptgl is invalid.
+Line 152: The property name _Version in dtptgl is invalid.
+Line 153: The property name Format in dtptgl is invalid.
+Line 154: The property name CurrentDate in dtptgl is invalid.
+Line 162: The property name _ExtentX in cmbnota is invalid.
+Line 163: The property name _ExtentY in cmbnota is invalid.
+Line 164: The property name _Version in cmbnota is invalid.
+Line 165: The property name Text in cmbnota is invalid.
